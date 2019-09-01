@@ -17,7 +17,7 @@
 ## 2. Project Motivation <a name="motivation"></a>
 Sparkify is an imaginary digital music streaming service similar to Spotify or Apple Music, This  is an attempt to choose the best machine learning model that predicts user turnover and engineer relevant features that help with that using PySpark.
 
-By using three engineered features and based on the f1 value, the recommended model in my point of you is “Random Forest Classifier” due to the fact that it has the highest f1 score.
+By using three engineered features and based on the f1 value, the recommended model in my point of you is “Naive Bayes” due to the fact that it has the highest f1 score.
 
 ## 3. File Descriptions <a name="files"></a>  
 
